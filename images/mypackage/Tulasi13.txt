@@ -1,0 +1,7 @@
+package mypackage{
+class Tulasi13{
+public static void main(String args[]){
+System.out.println("Hello from packagee");
+}
+}
+}
